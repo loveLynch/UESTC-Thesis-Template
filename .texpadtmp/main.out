@@ -1,0 +1,41 @@
+\BOOKMARK [0][-]{cover.0}{封面}{}% 1
+\BOOKMARK [0][-]{chineseabstract.0}{中文摘要}{}% 2
+\BOOKMARK [0][-]{englishabstract.0}{英文摘要}{}% 3
+\BOOKMARK [0][-]{toc.0}{目录}{}% 4
+\BOOKMARK [0][-]{chapter.1}{第一章 绪 论}{}% 5
+\BOOKMARK [1][-]{section.1.1}{1.1 研究工作的背景与意义}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.2}{1.2 时域积分方程方法的国内外研究历史与现状}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.3}{1.3 本文的主要贡献与创新}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.4}{1.4 本论文的结构安排}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{第二章 时域积分方程基础}{}% 10
+\BOOKMARK [1][-]{section.2.1}{2.1 时域积分方程的类型}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{2.2 空间基函数与时间基函数}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 空间基函数}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 时间基函数}{section.2.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.2.2.1}{2.2.2.1 时域方法特有的展开函数}{subsection.2.2.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.2.2}{2.2.2.2 频域方法特有的展开函数}{subsection.2.2.2}% 16
+\BOOKMARK [1][-]{section.2.3}{2.3 入射波}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.4}{2.4 本章小结}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{第三章 时域积分方程数值方法研究}{}% 19
+\BOOKMARK [1][-]{section.3.1}{3.1 时域积分方程时间步进算法的阻抗元素精确计算}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 时域积分方程时间步进算法产生的阻抗矩阵的特征}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 数值算例与分析}{section.3.1}% 22
+\BOOKMARK [1][-]{section.3.2}{3.2 时域积分方程时间步进算法矩阵方程的求解}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.3}{3.3 本章小结}{chapter.3}% 24
+\BOOKMARK [0][-]{chapter.4}{第四章 时域积分方程数值方法研究}{}% 25
+\BOOKMARK [1][-]{section.4.1}{4.1 时域积分方程时间步进算法的阻抗元素精确计算}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.2}{4.2 时域积分方程时间步进算法阻抗矩阵的存储}{chapter.4}% 27
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 时域积分方程时间步进算法产生的阻抗矩阵的特征}{section.4.2}% 28
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 数值算例与分析}{section.4.2}% 29
+\BOOKMARK [1][-]{section.4.3}{4.3 时域积分方程时间步进算法矩阵方程的求解}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.4}{4.4 本章小结}{chapter.4}% 31
+\BOOKMARK [0][-]{chapter.5}{第五章 全文总结与展望}{}% 32
+\BOOKMARK [1][-]{section.5.1}{5.1 全文总结}{chapter.5}% 33
+\BOOKMARK [1][-]{section.5.2}{5.2 后续工作展望}{chapter.5}% 34
+\BOOKMARK [0][-]{chapter*.8}{致 谢}{}% 35
+\BOOKMARK [0][-]{chapter*.9}{参考文献}{}% 36
+\BOOKMARK [0][-]{appendix.A}{附录A 中心极限定理的证明}{}% 37
+\BOOKMARK [1][-]{section.A.1}{A.1 高斯分布和伯努利实验}{appendix.A}% 38
+\BOOKMARK [0][-]{appendix*.10}{攻读硕士学位期间取得的成果}{}% 39
+\BOOKMARK [0][-]{appendix*.11}{外文资料原文}{}% 40
+\BOOKMARK [0][-]{appendix*.12}{外文资料译文}{}% 41
